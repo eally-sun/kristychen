@@ -10,7 +10,9 @@ paginate: 8
 paginate_path: "page:num"
 
 # presonal config
-#domain: 暂时还没有域名，等以后申请到了再用 
+#domain: 暂时还没有域名，等以后申请到了再用
+production_url: http://kristychen.github.io
+BASE_PATH: /kristychen.github.io
 title: 陌上尘_堤边絮
 description: where there is a will, there is a way
 author: kristychen
